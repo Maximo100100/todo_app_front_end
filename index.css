@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(112,215,140);
+}
+h1{
+    text-align: center
+}
+h2{
+    color: rgb(255,12,0);
+    text-align: center;
+    font-family: cursive;
+}
+.todolist{
+    color: rgb(0,0,160);
+    margin: 0 auto;
+    width: 50%;
+    background-color: rgb(220,255,230);
+    text-align: center;
+}
+ul{
+    text-align: center
+}
+.pomodoros{
+    color: rgb(200,0,0);
+}
