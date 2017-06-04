@@ -38,6 +38,9 @@ h2{
     margin-left: 500px;
     margin-right: 100px;
 }
+.listlicompleted{
+    text-decoration: line-through;
+}
 .checkbox{
     text-align: justify;
     padding-right: 2px;
@@ -54,6 +57,7 @@ ul{
     color: rgb(255,12,0);
     text-align: justify;
     margin-left: 5px;
+    font-weight: bold;
 }
 #usertext{
     text-align: center;
@@ -62,6 +66,7 @@ ul{
 #usernumb{
     text-align: center;
     color: rgb(255,12,0);
+    font-weight: bold;
 }
 #inputbutton{
     text-align: center;
